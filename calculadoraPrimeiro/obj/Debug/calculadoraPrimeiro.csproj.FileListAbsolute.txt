@@ -1,0 +1,11 @@
+C:\Users\Kevin Raymundo\source\repos\calculadoraPrimeiro\calculadoraPrimeiro\bin\Debug\calculadoraPrimeiro.exe.config
+C:\Users\Kevin Raymundo\source\repos\calculadoraPrimeiro\calculadoraPrimeiro\bin\Debug\calculadoraPrimeiro.exe
+C:\Users\Kevin Raymundo\source\repos\calculadoraPrimeiro\calculadoraPrimeiro\bin\Debug\calculadoraPrimeiro.pdb
+C:\Users\Kevin Raymundo\source\repos\calculadoraPrimeiro\calculadoraPrimeiro\obj\Debug\calculadoraPrimeiro.csproj.AssemblyReference.cache
+C:\Users\Kevin Raymundo\source\repos\calculadoraPrimeiro\calculadoraPrimeiro\obj\Debug\calculadoraPrimeiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin Raymundo\source\repos\calculadoraPrimeiro\calculadoraPrimeiro\obj\Debug\calculadoraPrimeiro.Form1.resources
+C:\Users\Kevin Raymundo\source\repos\calculadoraPrimeiro\calculadoraPrimeiro\obj\Debug\calculadoraPrimeiro.Properties.Resources.resources
+C:\Users\Kevin Raymundo\source\repos\calculadoraPrimeiro\calculadoraPrimeiro\obj\Debug\calculadoraPrimeiro.csproj.GenerateResource.cache
+C:\Users\Kevin Raymundo\source\repos\calculadoraPrimeiro\calculadoraPrimeiro\obj\Debug\calculadoraPrimeiro.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Raymundo\source\repos\calculadoraPrimeiro\calculadoraPrimeiro\obj\Debug\calculadoraPrimeiro.exe
+C:\Users\Kevin Raymundo\source\repos\calculadoraPrimeiro\calculadoraPrimeiro\obj\Debug\calculadoraPrimeiro.pdb
